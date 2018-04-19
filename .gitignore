@@ -63,3 +63,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Bucklescript
+lib/*
+!lib/js
+.merlin
+.bsb.lock
+
